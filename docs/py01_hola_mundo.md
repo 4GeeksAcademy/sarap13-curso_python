@@ -22,7 +22,7 @@ Python es un lenguaje de programación.
 - Un lenguaje de alto nivel (a high-level language),
   - lo opuesto sería un lenguaje de bajo nivel.
 - Un lenguaje interpretado (an interpreted language),
-  - vs. compilado
+  - vs. compilado.
 - In lenguaje de tipado dinámico (a dynamically typed language).
   - vs. lenguaje fuertemente tipado.
 
