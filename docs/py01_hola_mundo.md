@@ -28,7 +28,7 @@ Python es un lenguaje de programación.
 
 Algunas de las características que lo hacen interesante para nosotros son:
 
-    • Es fácil de utilizar.
+    • Es fácil de utilizar...
     • Es un lenguaje “completo”; no sirve sólo para programar scripts.
     • Tiene gran variedad de estructuras de datos incorporadas al propio lenguaje.
     • Tiene una gran cantidad de bibliotecas (libraries).
