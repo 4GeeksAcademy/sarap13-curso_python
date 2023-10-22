@@ -17,7 +17,7 @@
     * [PEP 8: indentación](#pep-8-indentación)
 <!-- TOC -->
 
-Python es un lenguaje de programación.
+Python es un lenguaje de programación:
 
 - Un lenguaje de alto nivel (a high-level language),
   - lo opuesto sería un lenguaje de bajo nivel.
